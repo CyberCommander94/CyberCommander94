@@ -15,7 +15,6 @@ Web developer with over 5 years of combined commercial development experience. M
 ### 🛠 Skills
 
 **Frontend**
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
@@ -31,13 +30,11 @@ Web developer with over 5 years of combined commercial development experience. M
 ![Vite](https://img.shields.io/badge/Vite-ffffff?style=for-the-badge&logo=vite&logoColor=646CFF)
 
 **Backend**
-
 ![Node.js](https://img.shields.io/badge/Node.JS-20232a?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
 ![Express.js](https://img.shields.io/badge/Express-ffffff?style=for-the-badge&logo=express&logoColor=000000)
 ![MongoDB](https://img.shields.io/badge/MongoDB-20232a?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
 **Tools**
-
 ![GIT](https://img.shields.io/badge/GIT-20232a?style=for-the-badge&logo=git&logoColor=F05032)
 ![Figma](https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
