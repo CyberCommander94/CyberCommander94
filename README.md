@@ -8,6 +8,9 @@ Web developer with over 5 years of combined commercial development experience. M
 - ✉️ You can contact me at [oleh.karpovych.94@gmail.com](mailto:oleh.karpovych.94@gmail.com)
 - 🧠 I'm currently learning React, Next.js, Typescript
 
+
+
+
 ### 🛠 Skills
 
 #### Frontend
@@ -37,12 +40,19 @@ Web developer with over 5 years of combined commercial development experience. M
 ![GIT](https://img.shields.io/badge/GIT-20232a?style=for-the-badge&logo=git&logoColor=F05032)
 ![Static Badge](https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
+
+
+
+
 ### 🌐 Socials
 
 <a href="https://www.github.com/CyberCommander94" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a>
 <a href="https://www.threads.net/@ewizardua" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a>
 <a href="https://www.instagram.com/ewizardua/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" title="Instagram" /> </picture> </a>
 <a href="https://www.linkedin.com/in/oleh-karpovych-512942103" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a>
+
+
+
 
 ### 📊 Stats
 
