@@ -2,7 +2,7 @@
 
 ### About me
 
-Web developer with over 5 years of combined commercial development experience. Main specialization - development client-side web applications based on Vue2 (4 years)/Vue 3 (1 year) framework. I have some experience in reusable JS modules development. Mainly worked on new features development, debugging and resolving issues in already started Vue projects. Have experience of work in a big English speaking scrum team (2 years). Regularly took part in different scrum meetings. Took part in custom UI components library (based on Vuetify) development. Also have experience working as a sole frontend dev on several projects.
+Web developer with over 5 years of combined commercial development experience. Main specialization - development client-side web applications based on Vue2 (4 years)/Vue 3 (1 year) framework. I have some experience in reusable JS modules development. Mainly worked on new features development, debugging and resolving issues in already started Vue projects. Have experience of work in a big English speaking scrum team (2 years). Regularly took part in different scrum meetings. Took part in custom UI components library (based on Vuetify) development. Also have experience working as a sole frontend dev on several projects. I like to draw a pictures at all. I work primarily with a simple pencil, aiming for a high level of realism in my drawings. My main focus is portraits, where I strive to capture true likeness. I also enjoy creating drawings of warriors, landscapes, and characters from movies and TV shows, bringing them to life on paper through intricate details and atmosphere.
 
 - 🌍 I'm based in Zhytomyr, Ukraine
 - ✉️ You can contact me at [oleh.karpovych.94@gmail.com](mailto:oleh.karpovych.94@gmail.com)
