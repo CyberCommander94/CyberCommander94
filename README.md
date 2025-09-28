@@ -51,8 +51,8 @@ Web developer with over 5 years of combined commercial development experience. M
 
 ### Codevars stats
 
-<a href="https://www.codewars.com/users/MaksNikulnikov" target="_blank" rel="noreferrer">
-  <img src="https://www.codewars.com/users/MaksNikulnikov/badges/large" alt="Codewars" />
+<a href="https://github.com/CyberCommander94" target="_blank" rel="noreferrer">
+  <img src="https://www.codewars.com/users/CyberCommander94/badges/large" alt="Codewars" />
 </a>
 
 ### My GitHub Stats
