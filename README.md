@@ -14,7 +14,7 @@ Web developer with over 5 years of combined commercial development experience. M
 
 #### Frontend
 
-![Static Badge](https://img.shields.io/badge/HTML5?logo=html5&logoColor=E34F26)
+![html5](https://img.shields.io/badge/html5?logo=html5&logoColor=E34F26)
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>
