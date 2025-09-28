@@ -1,8 +1,8 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Oleh Karpovych
 
-## Frontend developer
+### Frontend developer
 
-## About me
+### About me
 
 Web developer with over 5 years of combined commercial development experience. Main specialization - development client-side web applications based on Vue2 (4 years)/Vue 3 (1 year) framework. I have some experience in reusable JS modules development. Mainly worked on new features development, debugging and resolving issues in already started Vue projects. Have experience of work in a big English speaking scrum team (2 years). Regularly took part in different scrum meetings. Took part in custom UI components library (based on Vuetify) development. Also have experience working as a sole frontend dev on several projects.
 
@@ -10,7 +10,7 @@ Web developer with over 5 years of combined commercial development experience. M
 - ✉️ You can contact me at [oleh.karpovych.94@gmail.com](mailto:oleh.karpovych.94@gmail.com)
 - 🧠 I'm currently learning React, Next.js, Typescript
 
-## Skills
+### Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>
@@ -35,19 +35,19 @@ Web developer with over 5 years of combined commercial development experience. M
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
 </p>
 
-## Socials
+### Socials
 
 <p align="left">
 <a href="https://www.github.com/CyberCommander94" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a>
 <a href="https://www.threads.net/@ewizardua" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a>
 <a href="https://www.linkedin.com/in/oleh-karpovych-512942103" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
-## Codevars stats
+### Codevars stats
 
 <a href="https://www.codewars.com/users/MaksNikulnikov" target="_blank" rel="noreferrer">
   <img src="https://www.codewars.com/users/MaksNikulnikov/badges/large" alt="Codewars" />
 </a>
 
-## My GitHub Stats
+### My GitHub Stats
 
 <a href="http://www.github.com/CyberCommander94"><img src="https://github-readme-stats.vercel.app/api?username=CyberCommander94&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CyberCommander94's GitHub stats" /></a>
