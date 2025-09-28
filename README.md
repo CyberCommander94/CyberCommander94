@@ -52,7 +52,7 @@ Web developer with over 5 years of combined commercial development experience. M
 ### Codevars stats
 
 <a href="https://github.com/CyberCommander94" target="_blank" rel="noreferrer">
-  <img src="https://www.codewars.com/users/CyberCommander94/badges/large" alt="Codewars" />
+  <img src="https://www.codewars.com/users/Oleh%20Karpovych/badges/large" alt="Codewars" />
 </a>
 
 ### My GitHub Stats
