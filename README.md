@@ -15,37 +15,40 @@ Web developer with over 5 years of combined commercial development experience. M
 ### 🛠 Skills
 
 **Frontend**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-ffffff?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Nuxt](https://img.shields.io/badge/Nuxt-ffffff?style=for-the-badge&logo=nuxt&logoColor=00DC82)
-![Tailwind](https://img.shields.io/badge/Tailwind-20232a?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![MUI](https://img.shields.io/badge/MUI-20232a?style=for-the-badge&logo=mui&logoColor=%23007FFF)
-![Shadcn/ui](https://img.shields.io/badge/Shadcn%2Fui-ffffff?style=for-the-badge&logo=shadcnui&logoColor=000000)
-![Vuetify](https://img.shields.io/badge/Vuetify-ffffff?style=for-the-badge&logo=vuetify&logoColor=1867C0)
-![Redux](https://img.shields.io/badge/Redux-ffffff?style=for-the-badge&logo=redux&logoColor=764ABC)
-![Pinia](https://img.shields.io/badge/Pinia-25c2a0?style=for-the-badge&logo=pinia&logoColor=FFD859)
-![Vite](https://img.shields.io/badge/Vite-ffffff?style=for-the-badge&logo=vite&logoColor=646CFF)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![Vue](https://img.shields.io/badge/Vue-ffffff?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)  
+![Nuxt](https://img.shields.io/badge/Nuxt-ffffff?style=for-the-badge&logo=nuxt&logoColor=00DC82)  
+![Tailwind](https://img.shields.io/badge/Tailwind-20232a?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)  
+![MUI](https://img.shields.io/badge/MUI-20232a?style=for-the-badge&logo=mui&logoColor=%23007FFF)  
+![Shadcn/ui](https://img.shields.io/badge/Shadcn%2Fui-ffffff?style=for-the-badge&logo=shadcnui&logoColor=000000)  
+![Vuetify](https://img.shields.io/badge/Vuetify-ffffff?style=for-the-badge&logo=vuetify&logoColor=1867C0)  
+![Redux](https://img.shields.io/badge/Redux-ffffff?style=for-the-badge&logo=redux&logoColor=764ABC)  
+![Pinia](https://img.shields.io/badge/Pinia-25c2a0?style=for-the-badge&logo=pinia&logoColor=FFD859)  
+![Vite](https://img.shields.io/badge/Vite-ffffff?style=for-the-badge&logo=vite&logoColor=646CFF)  
 
 **Backend**
-![Node.js](https://img.shields.io/badge/Node.JS-20232a?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![Express.js](https://img.shields.io/badge/Express-ffffff?style=for-the-badge&logo=express&logoColor=000000)
-![MongoDB](https://img.shields.io/badge/MongoDB-20232a?style=for-the-badge&logo=mongodb&logoColor=47A248)
+
+![Node.js](https://img.shields.io/badge/Node.JS-20232a?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)  
+![Express.js](https://img.shields.io/badge/Express-ffffff?style=for-the-badge&logo=express&logoColor=000000)  
+![MongoDB](https://img.shields.io/badge/MongoDB-20232a?style=for-the-badge&logo=mongodb&logoColor=47A248)  
 
 **Tools**
-![GIT](https://img.shields.io/badge/GIT-20232a?style=for-the-badge&logo=git&logoColor=F05032)
-![Figma](https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+![GIT](https://img.shields.io/badge/GIT-20232a?style=for-the-badge&logo=git&logoColor=F05032)  
+![Figma](https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&logo=figma&logoColor=F24E1E)  
 
 ---
 
 ### 🌐 Socials
 
-<a href="https://www.github.com/CyberCommander94" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a>
-<a href="https://www.threads.net/@ewizardua" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a>
-<a href="https://www.instagram.com/ewizardua/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" title="Instagram" /> </picture> </a>
-<a href="https://www.linkedin.com/in/oleh-karpovych-512942103" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a>
+<a href="https://www.github.com/CyberCommander94" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a>  
+<a href="https://www.threads.net/@ewizardua" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a>  
+<a href="https://www.instagram.com/ewizardua/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" title="Instagram" /> </picture> </a>  
+<a href="https://www.linkedin.com/in/oleh-karpovych-512942103" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a>  
 
 ---
 
