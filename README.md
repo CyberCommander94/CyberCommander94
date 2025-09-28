@@ -22,10 +22,10 @@ Web developer with over 5 years of combined commercial development experience. M
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-ffffff?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Nuxt](https://img.shields.io/badge/Nuxt-ffffff?style=for-the-badge&logo=nuxt&logoColor=00DC82)
-![Tailwind](https://img.shields.io/badge/Tailwind-20232a?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![MUI](https://img.shields.io/badge/MUI-20232a?style=for-the-badge&logo=mui&logoColor=%23007FFF)
 ![Shadcn/ui](https://img.shields.io/badge/Shadcn%2Fui-ffffff?style=for-the-badge&logo=shadcnui&logoColor=000000)
-![Vuetify](https://img.shields.io/badge/Vuetify-ffffff?style=for-the-badge&logo=vuetify&logoColor=1867C0)
+![Vuetify](https://img.shields.io/badge/Vuetify-20232a?style=for-the-badge&logo=vuetify&logoColor=1867C0)
 ![Redux](https://img.shields.io/badge/Redux-ffffff?style=for-the-badge&logo=redux&logoColor=764ABC)
 ![Pinia](https://img.shields.io/badge/Pinia-25c2a0?style=for-the-badge&logo=pinia&logoColor=FFD859)
 ![Vite](https://img.shields.io/badge/Vite-ffffff?style=for-the-badge&logo=vite&logoColor=646CFF)
@@ -34,12 +34,12 @@ Web developer with over 5 years of combined commercial development experience. M
 
 ![Node.js](https://img.shields.io/badge/Node.JS-20232a?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
 ![Express.js](https://img.shields.io/badge/Express-ffffff?style=for-the-badge&logo=express&logoColor=000000)
-![MongoDB](https://img.shields.io/badge/MongoDB-20232a?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
 **Tools**
 
-![GIT](https://img.shields.io/badge/GIT-20232a?style=for-the-badge&logo=git&logoColor=F05032)
-![Figma](https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![GIT](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![Figma](https://img.shields.io/badge/Figma-20232a?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
 ---
 
